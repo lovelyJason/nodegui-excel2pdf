@@ -5,6 +5,18 @@ nodegui-excel2pdf
 <img width="360" alt="image" src="https://github.com/lovelyJason/nodegui-excel2pdf/assets/50656459/4c0f8429-8033-4701-862d-f7f99a6459c2">
 
 
+其他跨平台对比
+------
+
+Tauri:
+
+<img width="1316" alt="image" src="https://github.com/lovelyJason/nodegui-excel2pdf/assets/50656459/2456c4f8-a23a-483d-ac14-370478ff789a">
+
+flutter:
+
+<img width="1276" alt="image" src="https://github.com/lovelyJason/nodegui-excel2pdf/assets/50656459/afc02f53-3efd-4c45-a115-4f3e695f6819">
+
+没错，flutter现在也支持了桌面应用，包括windows和macos， 还有什么理由不选择呢, nodegui这套风格我还是喜欢的， 对于不想去学pyqt的还是有点用，奈何社区不给力，好多bug，也不维护了
 
 安装
 ------
