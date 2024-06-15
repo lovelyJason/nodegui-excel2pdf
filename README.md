@@ -1,6 +1,9 @@
 nodegui-excel2pdf
 ======================
-一个跨平台的，即 [NodeGui](https://docs.nodegui.org/) 项目
+一个跨平台的，即 [NodeGui](https://docs.nodegui.org/) 项目,功能是把excel的表头和内容都按照word文档中的变量替换掉，一键生成word或pdf
+
+<img width="360" alt="image" src="https://github.com/lovelyJason/nodegui-excel2pdf/assets/50656459/4c0f8429-8033-4701-862d-f7f99a6459c2">
+
 
 
 安装
