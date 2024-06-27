@@ -4,6 +4,7 @@ nodegui-excel2pdf
 
 <img width="360" alt="image" src="https://github.com/lovelyJason/nodegui-excel2pdf/assets/50656459/4c0f8429-8033-4701-862d-f7f99a6459c2">
 
+这个项目是个好项目（我指的是nodegui这个框架），只是社区不再维护了， 好好的东西成了一坨
 
 其他跨平台对比
 ------
