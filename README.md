@@ -19,6 +19,8 @@ flutter:
 
 没错，flutter现在也支持了桌面应用，包括windows和macos， 还有什么理由不选择呢, nodegui这套风格我还是喜欢的， 对于不想去学pyqt的还是有点用，奈何社区不给力，好多bug，也不维护了
 
+这个需求用flutter实现了， 项目地址[https://github.com/lovelyJason/flutter_excel2pdf](https://github.com/lovelyJason/flutter_excel2pdf)
+
 安装
 ------
 ```bash
